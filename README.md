@@ -80,9 +80,8 @@ From Web-Browser:
 - Check your e-mail and confirm registration
 - Login to APP_URL/admin
 - Oops! I'm sorry, but this site has only russian interface now - may be I'll create eng interface later ;)
-- If you do not want to register new administrators anymore, you can comment out line 93
 - Add all mail domains to which you will send links on APP_URL/admin/settings 
--  Only on these domains will it be possible to send links for downloading files
+- Only on these domains will it be possible to send links for downloading files
 - Try to sent file to anyone from APP_URL
 
 
