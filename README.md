@@ -5,7 +5,7 @@
 
 Включает в себя механизм публикации материалов в различных категориях (новости, статьи и т.д.), при этом категории могут быть вложенные: Новости - Горячие новости.
 
-Базовый механизм предусматривает загрузку иллюстраций в материалы, а также удаление на диски данных иллюстраций при удалении их из материала.
+Базовый механизм предусматривает загрузку иллюстраций в материалы, а также удаление на диске данных иллюстраций при удалении их из материала.
 
 Имеется базовая панель управления (админка), которая позволяет управлять категориями, материалами и пользователями сайта.
 
@@ -79,11 +79,6 @@ From Web-Browser:
 - Register New Admin in web-browser
 - Check your e-mail and confirm registration
 - Login to APP_URL/admin
-- Oops! I'm sorry, but this site has only russian interface now - may be I'll create eng interface later ;)
-- Add all mail domains to which you will send links on APP_URL/admin/settings 
-- Only on these domains will it be possible to send links for downloading files
-- Try to sent file to anyone from APP_URL
-
 
 - Enjoy your new Laravel Empty Blog now!
 ;)
